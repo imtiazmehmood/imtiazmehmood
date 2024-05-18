@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Imtiaz!
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</br>
-👩🏻‍🎓 Business Finance at the University of Central Punjab, Pakistan</br>
+👩🏻‍🎓 Studied Business Finance at the University of Central Punjab, Pakistan</br>
 👩🏻‍🎓 Studied Computer Science at the Virtual University of Pakistan, Pakistan</br>
 💭 Currently learning about AI </br>
 🤝 I'm open to collaborating on interesting JavaScript projects !</br>
