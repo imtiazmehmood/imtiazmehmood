@@ -3,7 +3,7 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
 👩🏻‍🎓 Studied Business Finance at the University of Central Punjab, Pakistan </br>
 👩🏻‍🎓 Studied Computer Science at the Virtual University of Pakistan, Pakistan </br>
-🚀 I'm currently working on [Skyline Fantasy Disc Golf](https://play.google.com/store/apps/details?id=com.fangrip_fantasydiscgolf) </br>
+🚀 I'm currently working on [Skyline Fantasy Disc Golf For ESPN](https://play.google.com/store/apps/details?id=com.fangrip_fantasydiscgolf) </br>
 💭 Also learning about AI </br>
 🤝 I'm open to collaborating on interesting JavaScript projects !</br>
 
