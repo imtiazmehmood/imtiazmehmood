@@ -1,4 +1,4 @@
-# Imtiaz's GitHub Profile 🚀
+# Imtiaz Mahmood's GitHub Profile 🚀
 
 Welcome to my GitHub playground! 👋 I'm Imtiaz Mahmood, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
@@ -7,7 +7,7 @@ Welcome to my GitHub playground! 👋 I'm Imtiaz Mahmood, a passionate full-stac
 👩🏻‍🎓 Studied Computer Science at the Virtual University of Pakistan, Pakistan </br>
 🔭 I work as a Full Stack Developer.
 🚀 I'm currently working on [Skyline Fantasy Disc Golf For ESPN](https://play.google.com/store/apps/details?id=com.fangrip_fantasydiscgolf) </br>
-👯 I’m looking to collaborate on open source projects or interesting ideas.
+👯 I’m looking to collaborate on open source projects or interesting ideas </br>
 💬 Ask me about anything! I'm happy to help.
 
 ## 🔧 Technologies & Tools
