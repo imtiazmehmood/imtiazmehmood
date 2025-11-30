@@ -3,11 +3,11 @@
 Welcome to my GitHub playground! 👋 I'm Imtiaz Mahmood, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
 ## 🚀 Quick Overview
-🎓 I hold a Master’s degree in Computer Science.
-💼 I work as an AI-Enabled Full Stack Developer specializing in React, React Native, Node.js, and OpenAI technologies.
-🤖 I’ve built features such as custom chatbots, AI agents, and automation workflows integrated directly into applications.
-🤝 I’m interested in collaborating on open-source projects and innovative tech ideas.
-💬 Have a question or need support? I’m always happy to help.
+🎓 I hold a Master’s degree in Computer Science. </br>
+💼 I work as an AI-Enabled Full Stack Developer specializing in React, React Native, Node.js, and OpenAI technologies. </br>
+🤖 I’ve built features such as custom chatbots, AI agents, and automation workflows integrated directly into applications. </br>
+🤝 I’m interested in collaborating on open-source projects and innovative tech ideas. </br>
+💬 Have a question or need support? I’m always happy to help. </br>
 
 ## 🔧 Technologies & Tools
 
